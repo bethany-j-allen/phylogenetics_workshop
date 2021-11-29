@@ -4,7 +4,7 @@ This workshop is designed as an introduction to phylogenetics, intended for thos
 
 # Author
 
-Bethany Allen
+Dr. Bethany Allen
 
 Department of Biosystems Science and Engineering, ETH Zürich, Basel, Switzerland
 
