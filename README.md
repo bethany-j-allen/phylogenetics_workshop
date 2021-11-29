@@ -8,3 +8,12 @@ Bethany Allen
 
 Department of Biosystems Science and Engineering, ETH Zürich, Basel, Switzerland
 
+# Materials
+
+Slides from the lecture parts of the workshop can be viewed using the link above.
+
+The papers for the group discussion section of the workshop will be listed here in due course.
+
+# Extra resources
+
+
