@@ -16,6 +16,6 @@ The papers for the group discussion section of the workshop will be listed here 
 
 # Extra resources
 
-icytree.org is a great web-based tree visualiser, jut drag and drop your Newick to see the tree.
+https://icytree.org is a great web-based tree visualiser, jut drag and drop your Newick to see the tree.
 
-mesquiteproject.org is a nice program for carrying out simple tasks with phylogenies. I previously used it to build phylogenies by hand: you can enter your list of OTUs, drag and drop your branches, then export to a Newick file for further visualisation or analysis.
+www.mesquiteproject.org is a nice program for carrying out simple tasks with phylogenies. I previously used it to build phylogenies by hand: you can enter your list of OTUs, drag and drop your branches, then export to a Newick file for further visualisation or analysis.
