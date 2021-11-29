@@ -10,7 +10,9 @@ Department of Biosystems Science and Engineering, ETH Zürich, Basel, Switzerlan
 
 # Materials
 
-Slides from the lecture parts of the workshop can be viewed using the link above.
+Slides from the lecture parts of the workshop can be viewed in the "Slides" folder above.
+
+If you are familiar with R, you can find a script for simple tree manipulation, with some trees to practice on, in the "R code" folder above.
 
 The papers for the group discussion section of the workshop will be listed here in due course.
 
