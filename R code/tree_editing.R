@@ -55,3 +55,5 @@ plot(smaller_tree, type = "phylogram", no.margin = T)
 
 #Save new pruned tree
 write.tree(smaller_tree, "R code/Pruned_tree.txt")
+
+#I would recommend doing further manipulation for figures using Figtree
