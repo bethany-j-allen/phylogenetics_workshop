@@ -22,6 +22,8 @@ If you want to look at or edit nexus/tree files, I would recommend using a good 
 
 GenBank (https://www.ncbi.nlm.nih.gov/genbank/) is the biggest repository of open-access genetic sequence data, and is a good place to start looking if you're thinking about building a phylogeny.
 
+The best place to get fossil data is the Paleobiology Database (https://paleobiodb.org/). I know this database well, so if you are interested in using fossil data in your analyses I would be happy to answer questions about it!
+
 https://icytree.org is a great web-based tree visualiser, just drag and drop your Newick to see the tree.
 
 www.mesquiteproject.org is a nice program for carrying out simple tasks with phylogenies. I previously used it to build phylogenies by hand: you can enter your list of OTUs, drag and drop your branches, then export to a Newick file for further visualisation or analysis.
