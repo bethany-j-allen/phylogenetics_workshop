@@ -14,7 +14,15 @@ Slides from the lecture parts of the workshop can be viewed in the "Slides" fold
 
 If you are familiar with R, you can find a script for simple tree manipulation, with some trees to practice on, in the "R code" folder above.
 
-The papers for the group discussion section of the workshop will be listed here in due course.
+# Papers for Part Four
+
+Wang et al. 2013. Molecular phylogeny and biogeography of _Percocypris_ (Cyprinidae, Teleosti). (https://doi.org/10.1371/journal.pone.0061827)
+
+Xing et al. 2014. Fossils and a large molecular phylogeny show that the evolution of species richness, generic diversity, and turnover rates are disconnected. (https://doi.org/10.1111/evo.12489)
+
+Favre et al. 2016. Out-of-Tibet: the spatio-temporal evolution of _Gentiana_ (Gentianaceae). (https://doi.org/10.1111/jbi.12840)
+
+Qu et al. 2021. The evolution of ancestral and species-specific adaptations in snowfinches at the Qinghai-Tibet Plateau. (https://doi.org/10.1073/pnas.2012398118)
 
 # Extra resources
 
