@@ -18,9 +18,9 @@ If you are familiar with R, you can find a script for simple tree manipulation, 
 
 Wang et al. 2013. Molecular phylogeny and biogeography of _Percocypris_ (Cyprinidae, Teleosti). (https://doi.org/10.1371/journal.pone.0061827)
 
-Xing et al. 2014. Fossils and a large molecular phylogeny show that the evolution of species richness, generic diversity, and turnover rates are disconnected. (https://doi.org/10.1111/evo.12489)
-
 Favre et al. 2016. Out-of-Tibet: the spatio-temporal evolution of _Gentiana_ (Gentianaceae). (https://doi.org/10.1111/jbi.12840)
+
+Xing & Ree. 2017. Uplift-driven diversification in the Hengduan Mountains, a temperate biodiversity hotspot. (https://doi.org/10.1073/pnas.1616063114)
 
 Qu et al. 2021. The evolution of ancestral and species-specific adaptations in snowfinches at the Qinghai-Tibet Plateau. (https://doi.org/10.1073/pnas.2012398118)
 
